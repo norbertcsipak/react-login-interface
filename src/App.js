@@ -8,6 +8,7 @@ function App() {
       <Navbar />
       <hr class="my-3 h-px w-90 ml-3 bg-gray-200 border-0 dark:bg-gray-700"/>
       <Banner />
+      <hr class="my-3 h-px w-90 ml-3 bg-gray-200 border-0 dark:bg-gray-700"/>
     </div>
   );
 }
